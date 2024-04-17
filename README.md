@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03bb85&height=180&section=header&animation=twinkling"/>
+
 # Dados Bancários
 
 Este repositório contém um conjunto de comandos e consultas para manipular e analisar dados bancários usando MongoDB.
